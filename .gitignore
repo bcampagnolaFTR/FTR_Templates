@@ -1,2 +1,3 @@
-/Main_Template/bin/*
-/Main_Template/obj/*
+/Main_Template/bin/**
+/Main_Template/obj/**
+/.vs/**
