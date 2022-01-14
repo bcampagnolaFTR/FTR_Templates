@@ -139,6 +139,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Directory.cs" />
     <Compile Include="ControlSystem.cs" />
     <Compile Include="Device_Manager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
